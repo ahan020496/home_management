@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="dd5c8f5793618210d1d97c018bba109e" label="Home" max_length="40" name="x_402960_hm_home" type="collection">
+        <element default="true" label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Agreement End Date" max_length="40" name="u_agreement_end_date" type="glide_date"/>
+        <element label="Agreement Execution Date" max_length="40" name="u_agreement_execution_date" type="glide_date"/>
+        <element label="Area/Locality" max_length="110" name="u_area_locality" type="string"/>
+        <element label="Area Pin Code" max_length="40" name="u_area_pin_code" type="integer"/>
+        <element label="City" max_length="50" name="u_city" type="string"/>
+        <element label="Flat No." max_length="10" name="u_flat_no" type="string"/>
+        <element label="Floor" max_length="10" name="u_floor" type="string"/>
+        <element label="House No." max_length="10" name="u_house_no" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="110" name="u_name" type="string"/>
+        <element choice="1" label="State" max_length="40" name="u_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="10" value="draft"/>
+                <element inactive_on_update="false" label="Implemented" sequence="20" value="implemented"/>
+                <element inactive_on_update="false" label="Renew" sequence="30" value="renew"/>
+                <element inactive_on_update="false" label="Outdated" sequence="40" value="outdated"/>
+            </choice>
+        </element>
+        <element label="State/Province" max_length="100" name="u_state_province" type="string"/>
+        <element label="Stay Started" max_length="40" name="u_stay_started" type="glide_date"/>
+        <element label="Street" max_length="110" name="u_street" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_agreement_execution_date" label="Agreement Execution Date" language="en" table="x_402960_hm_home">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_agreement_execution_date</element>
+            <help/>
+            <hint/>
+            <label>Agreement Execution Date</label>
+            <language>en</language>
+            <name>x_402960_hm_home</name>
+            <plural>Agreement Execution Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-19 16:07:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Agreement Execution Date</sys_name>
+            <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+            <sys_update_name>sys_documentation_x_402960_hm_home_u_agreement_execution_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-19 16:07:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

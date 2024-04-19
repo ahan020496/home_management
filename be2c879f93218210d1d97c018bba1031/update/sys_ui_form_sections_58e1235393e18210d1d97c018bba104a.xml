@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="58e1235393e18210d1d97c018bba104a" sys_domain="global" table="x_402960_hm_home" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-19 12:49:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10e1235393e18210d1d97c018bba104e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_402960_hm_home" name="x_402960_hm_home" sys_domain="global" view="Default view">58e1235393e18210d1d97c018bba104a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_402960_hm_home" sys_domain="global" view="Default view">b9019fdb93618210d1d97c018bba10f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-19 12:49:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_402960_hm_home</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-19 12:49:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58e1235393e18210d1d97c018bba104a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_402960_hm_home</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+            <sys_update_name>sys_ui_form_sections_58e1235393e18210d1d97c018bba104a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-19 12:49:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
