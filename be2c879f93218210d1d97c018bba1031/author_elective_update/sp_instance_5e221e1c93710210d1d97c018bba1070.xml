@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5511169c93710210d1d97c018bba10e1</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-22 09:34:37</sys_created_on>
+        <sys_id>5e221e1c93710210d1d97c018bba1070</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+        <sys_update_name>sp_instance_5e221e1c93710210d1d97c018bba1070</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-22 09:43:11</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h1 style=\"text-align: center;\"><strong>Welcome to Home Management Portal</strong></h1>\r\n<p style=\"text-align: center;\">One stop portal to manage your home.</p>",
+		"displayValue": "<h1 style=\"text-align: center;\"><strong>Welcome to Home Management Portal</strong></h1>\n<p style=\"text-align: center;\">One stop portal to manage your home.</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=5e221e1c93710210d1d97c018bba1070"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Home Management">be2c879f93218210d1d97c018bba1031</application>
+        <file_path/>
+        <instance_id>4467627cdbcefd1002d91729139619ed</instance_id>
+        <instance_name>dev191033</instance_name>
+        <name>sp_instance_5e221e1c93710210d1d97c018bba1070</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;5511169c93710210d1d97c018bba10e1&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-22 09:34:37&lt;/sys_created_on&gt;&lt;sys_id&gt;5e221e1c93710210d1d97c018bba1070&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Home Management" source="x_402960_hm"&gt;be2c879f93218210d1d97c018bba1031&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Home Management"&gt;be2c879f93218210d1d97c018bba1031&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_5e221e1c93710210d1d97c018bba1070&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-22 09:43:11&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;h1 style=\"text-align: center;\"&gt;&lt;strong&gt;Welcome to Home Management Portal&lt;/strong&gt;&lt;/h1&gt;\r\n&lt;p style=\"text-align: center;\"&gt;One stop portal to manage your home.&lt;/p&gt;",
+		"displayValue": "&lt;h1 style=\"text-align: center;\"&gt;&lt;strong&gt;Welcome to Home Management Portal&lt;/strong&gt;&lt;/h1&gt;\n&lt;p style=\"text-align: center;\"&gt;One stop portal to manage your home.&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5e221e1c93710210d1d97c018bba1070"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-202498802</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2abfd06f93e58210d1d97c018bba10c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-22 09:43:11</sys_created_on>
+        <sys_id>7714129093b10210d1d97c018bba1057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f0530222b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-22 09:43:11</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>fb14129027b102106f8e50e606b96e56</update_guid>
+        <update_guid_history>fb14129027b102106f8e50e606b96e56:-202498802,0914921843710210788b4373cc451b5e:1916933904,18a35650e2b10210024e1e6e323a18e6:-202498802,52221e1cba7102109e9ac3e37db96673:-1672088398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9f719cf893750210d1d97c018bba100b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 13:29:24</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>062e2eeff15c47658088cc7af12a5171</sys_id>
+        <sys_metadata>5e221e1c93710210d1d97c018bba1070</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+        <sys_scope_delete display_value="">1c1b684e2e5045e7825ebd07e627f9e9</sys_scope_delete>
+        <sys_update_name>sp_instance_5e221e1c93710210d1d97c018bba1070</sys_update_name>
+        <sys_update_version display_value="sp_instance_5e221e1c93710210d1d97c018bba1070">7714129093b10210d1d97c018bba1057</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 13:29:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

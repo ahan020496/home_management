@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">dcb4803c93350210d1d97c018bba10e2</sp_column>
+        <sp_widget display_value="HM Login">7251329493f10210d1d97c018bba10bd</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 12:33:35</sys_created_on>
+        <sys_id>a9b484f893350210d1d97c018bba10a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+        <sys_update_name>sp_instance_a9b484f893350210d1d97c018bba10a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 13:38:42</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"header_text": {
+		"value": "Welcome to Home Management Portal!!",
+		"displayValue": "Welcome to Home Management Portal!!"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=a9b484f893350210d1d97c018bba10a5"/>
+</record_update>

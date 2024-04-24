@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">c21e3fe093350210d1d97c018bba1085</sp_column>
+        <sp_widget display_value="HM Login">7251329493f10210d1d97c018bba10bd</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 12:04:55</sys_created_on>
+        <sys_id>252e7fe093350210d1d97c018bba109c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+        <sys_update_name>sp_instance_252e7fe093350210d1d97c018bba109c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 12:04:55</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=252e7fe093350210d1d97c018bba109c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Home Management">be2c879f93218210d1d97c018bba1031</application>
+        <file_path/>
+        <instance_id>4467627cdbcefd1002d91729139619ed</instance_id>
+        <instance_name>dev191033</instance_name>
+        <name>sp_instance_252e7fe093350210d1d97c018bba109c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">c21e3fe093350210d1d97c018bba1085</sp_column><sp_widget display_value="HM Login">7251329493f10210d1d97c018bba10bd</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-23 12:04:55</sys_created_on><sys_id>252e7fe093350210d1d97c018bba109c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package><sys_policy/><sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope><sys_update_name>sp_instance_252e7fe093350210d1d97c018bba109c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-23 12:04:55</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=252e7fe093350210d1d97c018bba109c"/></record_update>]]></payload>
+        <payload_hash>351754723</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2abfd06f93e58210d1d97c018bba10c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 12:04:55</sys_created_on>
+        <sys_id>a12e7fe093350210d1d97c018bba109f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f0ad840990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 12:04:55</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>a52e7fe0243502100bbd6b8d309ecb9e</update_guid>
+        <update_guid_history>a52e7fe0243502100bbd6b8d309ecb9e:351754723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5e7ef7e093350210d1d97c018bba10d2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 12:06:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>b9323c2bff644a6aa72be50ecb035209</sys_id>
+        <sys_metadata>252e7fe093350210d1d97c018bba109c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Home Management" source="x_402960_hm">be2c879f93218210d1d97c018bba1031</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Home Management">be2c879f93218210d1d97c018bba1031</sys_scope>
+        <sys_scope_delete display_value="">1c1b684e2e5045e7825ebd07e627f9e9</sys_scope_delete>
+        <sys_update_name>sp_instance_252e7fe093350210d1d97c018bba109c</sys_update_name>
+        <sys_update_version display_value="sp_instance_252e7fe093350210d1d97c018bba109c">a12e7fe093350210d1d97c018bba109f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 12:06:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
